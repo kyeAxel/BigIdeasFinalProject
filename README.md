@@ -1,5 +1,5 @@
 # BigIdeasFinalProject
-Team Name
+Data Dogs
 
 Members: 
 Kye Peart (kyp35@pitt.edu)
