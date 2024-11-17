@@ -3,7 +3,7 @@ Data Dogs
 
 Members: 
 Kye Peart (kyp35@pitt.edu)
-mitch 
+Mitchell Dumm (MMD196@Pitt.edu)
 
 Data sets:
 https://data.wprdc.org/dataset/street-closures 
