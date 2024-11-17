@@ -6,8 +6,8 @@ Kye Peart (kyp35@pitt.edu)
 Mitchell Dumm (MMD196@Pitt.edu)
 
 Data sets:
-https://data.wprdc.org/dataset/street-closures 
-This dataset contains all DOMI Street Closure Permit data in the Computronix (CX) system from the date of its adoption (in May 2020) until the present.
+https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640
+This dataset contains all Speed humps installed by the City of Pittsburgh to slow down traffic. Has not been updated since 2021.
 
 https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
 This data set Contains the neighborhood, road, and car count provided by the City of Pittsburgh's Department of Mobility & Infrastructure. Has not been updated since 2021. 
