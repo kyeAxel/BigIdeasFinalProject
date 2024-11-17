@@ -1,9 +1,13 @@
 # BigIdeasFinalProject
+Team name:
 Data Dogs
 
 Members: 
 Kye Peart (kyp35@pitt.edu)
 Mitchell Dumm (MMD196@Pitt.edu)
+
+Canvas group:
+- to find when my computer does not snail itslef to a halt
 
 Data sets:
 https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640
